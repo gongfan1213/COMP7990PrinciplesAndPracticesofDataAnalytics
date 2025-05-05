@@ -71,4 +71,18 @@ Coverage: Lecture notes on Data Mining and Statistics (Lecture 1 to 6, lab mater
 
 A formular sheet will be attached to the question paper.
 
+Additional materials for understanding hypothesis testing (not included in our quiz/exam)
+Completion requirements
+https://www.scribbr.com/statistics/degrees-of-freedom/
 
+https://www.scribbr.com/statistics/p-value/
+
+https://www.scribbr.com/statistics/standard-error/
+
+https://www.scribbr.com/statistics/confidence-interval/
+
+https://www.scribbr.com/statistics/hypothesis-testing/
+
+https://www.scribbr.com/statistics/null-and-alternative-hypotheses/
+
+https://www.scribbr.com/statistics/statistical-significance/
